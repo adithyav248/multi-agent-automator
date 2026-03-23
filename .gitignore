@@ -1,0 +1,13 @@
+# Ignore Environment Variables (API Keys)
+.env
+
+# Ignore Python Virtual Environment
+venv/
+env/
+
+# Ignore Python Cache
+__pycache__/
+*.pyc
+
+# Ignore CrewAI execution logs (if any are generated)
+*.log
